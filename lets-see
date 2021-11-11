@@ -1,0 +1,6 @@
+print("can i code using python on here?")
+yesnoif = input("type yes or no")
+if yesnoif == "yes":
+  print("sweet")
+elif yesnoif == "no":
+  print("darn")
